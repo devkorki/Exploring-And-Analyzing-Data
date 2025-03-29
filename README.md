@@ -1,13 +1,13 @@
 # Exploring and Analyzing Data – Final Project (ITC6002A1)
 
-This repository contains the final project for the course **ITC6002A1 - Exploring and Analyzing Data** (Fall Term 2024) under the supervision of **Prof. Dimitrios Milioris**.
+This repository contains the final project for the course **ITC6002A1 - Exploring and Analyzing Data** (Fall Term 2024).
 
-## 👨‍💻 Team Members
-- Evangelos Aspiotis
-- Panagiotis Korkizoglou
-- Christos Liakopoulos
+## Team Members
+- Evangelos Aspiotis (https://github.com/EvangelosAspiotis)
+- Panagiotis Korkizoglou (https://github.com/devkorki)
+- Christos Liakopoulos (https://github.com/hrliakop)
 
-## 📌 Project Overview
+## Project Overview
 
 We analyzed and forecasted **daily temperature data** from 2022–2023 using various statistical and time series forecasting methods.
 
@@ -15,14 +15,14 @@ The data is sourced from the **National Observatory of Athens / meteo.gr**, cove
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `ITC6002 Project Team 1.py`: Main Python script containing all data processing, forecasting methods, and evaluation.
 - `data/`: Folder containing raw `.csv` datasets for each city.
 
 ---
 
-## 📈 Techniques Used
+## Techniques Used
 
 ### ➤ Data Cleaning
 - Handling missing values (`---`) using moving averages
@@ -40,7 +40,7 @@ Each method includes **parameter optimization** based on **MAPE (Mean Absolute P
 
 ---
 
-## 📊 Questions Addressed
+## Questions Addressed
 
 1. **Data Cleaning**: Cleaned raw temperature datasets from multiple cities.
 2. **Year 1 Forecasting**: Predicted February–December based on January using multiple methods.
