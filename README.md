@@ -2,7 +2,7 @@
 
 This repository contains the final project for the course **ITC6002A1 - Exploring and Analyzing Data** (Fall Term 2024).
 
-## Team Members
+## TEAM MEMBERS
 - Evangelos Aspiotis (https://github.com/EvangelosAspiotis)
 - Panagiotis Korkizoglou (https://github.com/devkorki)
 - Christos Liakopoulos (https://github.com/hrliakop)
